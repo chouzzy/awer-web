@@ -19,7 +19,7 @@ export default function NotFound () {
          <Box maxW={['100vw','90vw','75vw','50vw']} my='auto' >
             <Flex>
                <Text mx='auto' fontSize={['1.6rem','1.5rem','2rem','2rem']}  color='salmon' display='inline'>
-                  Erro 404
+                  Erro 404 - não encontrado
                </Text>
             </Flex>
             <Lottie 
