@@ -32,6 +32,31 @@ export function PartnersLg() {
             onSwiper={(swiper) => console.log(swiper)}
          >
             
+
+            <SwiperSlide>
+               <Flex bg='#F0EFF4ea' mx='auto' maxW={['60vw','50vw','28vw','22vw' ]}
+               _hover={{bg:'white', transition:'300ms'}} 
+               boxShadow='xl' h='180px'  borderRadius='10px'>
+                  <Image  maxW='200px' mx='auto' objectFit='contain' src={"static/img/clientes/drfenolio.png"} alt='Logo Dr. Fenólio' />
+               </Flex>
+            </SwiperSlide>
+            
+            <SwiperSlide>
+               <Flex bg='#F0EFF4ea' mx='auto' maxW={['60vw','50vw','28vw','22vw'  ]}
+               _hover={{bg:'white', transition:'300ms'}} 
+               boxShadow='xl' h='180px' borderRadius='10px'>
+                  <Image maxW='200px' mx='auto' objectFit='contain' src={"static/img/clientes/greensheep.png"} alt='Logo da Greensheep' />
+               </Flex>
+            </SwiperSlide>
+            
+            <SwiperSlide>
+               <Flex bg='#F0EFF4ea' mx='auto' maxW={['60vw','50vw','28vw','22vw' ]}
+               _hover={{bg:'white', transition:'300ms'}} 
+               boxShadow='xl' h='180px'  borderRadius='10px'>
+                  <Image  maxW='200px' mx='auto' objectFit='contain' src={"static/img/clientes/monique.png"} alt='Logo Daterra' />
+               </Flex>
+            </SwiperSlide>
+            
             <SwiperSlide>
                <Flex  bg='#F0EFF4ea' mx='auto' maxW={['60vw','50vw','28vw','22vw' ]}
                _hover={{bg:'white', transition:'300ms'}} 
@@ -77,30 +102,6 @@ export function PartnersLg() {
                _hover={{bg:'white', transition:'300ms'}} 
                boxShadow='xl' h='180px'  borderRadius='10px'>
                   <Image  maxW='200px' mx='auto' objectFit='contain' src={"static/img/clientes/passaporte.png"} alt='Logo Daterra' />
-               </Flex>
-            </SwiperSlide>
-
-            <SwiperSlide>
-               <Flex bg='#F0EFF4ea' mx='auto' maxW={['60vw','50vw','28vw','22vw' ]}
-               _hover={{bg:'white', transition:'300ms'}} 
-               boxShadow='xl' h='180px'  borderRadius='10px'>
-                  <Image  maxW='200px' mx='auto' objectFit='contain' src={"static/img/clientes/drfenolio.png"} alt='Logo Dr. Fenólio' />
-               </Flex>
-            </SwiperSlide>
-            
-            <SwiperSlide>
-               <Flex bg='#F0EFF4ea' mx='auto' maxW={['60vw','50vw','28vw','22vw'  ]}
-               _hover={{bg:'white', transition:'300ms'}} 
-               boxShadow='xl' h='180px' borderRadius='10px'>
-                  <Image maxW='200px' mx='auto' objectFit='contain' src={"static/img/clientes/greensheep.png"} alt='Logo da Greensheep' />
-               </Flex>
-            </SwiperSlide>
-            
-            <SwiperSlide>
-               <Flex bg='#F0EFF4ea' mx='auto' maxW={['60vw','50vw','28vw','22vw' ]}
-               _hover={{bg:'white', transition:'300ms'}} 
-               boxShadow='xl' h='180px'  borderRadius='10px'>
-                  <Image  maxW='200px' mx='auto' objectFit='contain' src={"static/img/clientes/monique.png"} alt='Logo Daterra' />
                </Flex>
             </SwiperSlide>
 
