@@ -28,7 +28,7 @@ export function Container_5() {
       name: 'Patricia Costa'
       },
       matheus:{
-      description:'Matheus Farias, iniciou sua carreira na área comercial e de planejamento no segmento automotivo. Passou para a área de desenvolvimento de sistemas como especialista em Python. Desde 2021 compõe o time de desenvolvimento da Awer. Formando em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta.',
+      description:'Matheus Farias, iniciou sua carreira na área comercial e de planejamento no segmento automotivo. Passou para a área de desenvolvimento de sistemas como especialista em back end. Desde 2021 compõe o time de desenvolvimento da Awer. Formado em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta.',
       name: 'Matheus F. Lopes'
       }
 
