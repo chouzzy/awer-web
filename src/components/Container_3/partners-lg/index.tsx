@@ -71,13 +71,13 @@ export function PartnersLg() {
                </Flex>
             </SwiperSlide>
             
-            <SwiperSlide>
+            {/* <SwiperSlide>
                <Flex bg='#F0EFF4ea' mx='auto' maxW={['60vw','50vw','28vw','22vw' ]}
                _hover={{bg:'white', transition:'300ms'}} 
                boxShadow='xl' h='180px'  borderRadius='10px'>
                   <Image  maxW='200px' mx='auto' objectFit='contain' src={"static/img/clientes/monique.png"} alt='Logo Daterra' />
                </Flex>
-            </SwiperSlide>
+            </SwiperSlide> */}
             
             <SwiperSlide>
                <Flex  bg='#F0EFF4ea' mx='auto' maxW={['60vw','50vw','28vw','22vw' ]}
