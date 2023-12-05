@@ -59,7 +59,7 @@ export function PartnersLg() {
                <Flex bg='#F0EFF4ea' mx='auto' maxW={['60vw','50vw','28vw','22vw' ]}
                _hover={{bg:'white', transition:'300ms'}} 
                boxShadow='xl' h='180px'  borderRadius='10px'>
-                  <Image  maxW='200px' mx='auto' objectFit='contain' src={"static/img/clientes/drfenolio.png"} alt='Logo Dr. Fenólio' />
+                  <Image  maxW='200px' mx='auto' objectFit='contain' src={"static/img/clientes/cursinhoFEAUSP.jpg"} alt='Logo Dr. Fenólio' />
                </Flex>
             </SwiperSlide>
             
@@ -67,7 +67,7 @@ export function PartnersLg() {
                <Flex bg='#F0EFF4ea' mx='auto' maxW={['60vw','50vw','28vw','22vw'  ]}
                _hover={{bg:'white', transition:'300ms'}} 
                boxShadow='xl' h='180px' borderRadius='10px'>
-                  <Image maxW='200px' mx='auto' objectFit='contain' src={"static/img/clientes/greensheep.png"} alt='Logo da Greensheep' />
+                  <Image maxW='200px' mx='auto' objectFit='contain' src={"static/img/clientes/cannova.png"} alt='Logo da Cannova' />
                </Flex>
             </SwiperSlide>
             
@@ -91,7 +91,7 @@ export function PartnersLg() {
                <Flex bg='#F0EFF4ea' mx='auto' maxW={['60vw','50vw','28vw','22vw' ]}
                _hover={{bg:'white', transition:'300ms'}} 
                boxShadow='xl' h='180px'  borderRadius='10px'>
-                  <Image  maxW='200px' mx='auto' objectFit='contain' src={"static/img/clientes/jma.svg"} alt='Logo Daterra' />
+                  <Image  maxW='200px' mx='auto' objectFit='contain' src={"static/img/clientes/jma.svg"} alt='Logo JMA' />
                </Flex>
             </SwiperSlide>
             
@@ -99,7 +99,28 @@ export function PartnersLg() {
                <Flex bg='#F0EFF4ea' mx='auto' maxW={['60vw','50vw','28vw','22vw' ]}
                _hover={{bg:'white', transition:'300ms'}} 
                boxShadow='xl' h='180px'  borderRadius='10px'>
-                  <Image  maxW='200px' mx='auto' objectFit='contain' src={"static/img/clientes/doralice.png"} alt='Logo Daterra' />
+                  <Image  maxW='200px' mx='auto' objectFit='contain' src={"static/img/clientes/doralice.png"} alt='Logo Doralice' />
+               </Flex>
+            </SwiperSlide>
+            <SwiperSlide>
+               <Flex bg='#F0EFF4ea' mx='auto' maxW={['60vw','50vw','28vw','22vw' ]}
+               _hover={{bg:'white', transition:'300ms'}} 
+               boxShadow='xl' h='180px'  borderRadius='10px'>
+                  <Image  maxW='200px' mx='auto' objectFit='contain' src={"static/img/clientes/cel_advogados.png"} alt='Logo Cecchi e Lemos' />
+               </Flex>
+            </SwiperSlide>
+            <SwiperSlide>
+               <Flex bg='#F0EFF4ea' mx='auto' maxW={['60vw','50vw','28vw','22vw' ]}
+               _hover={{bg:'white', transition:'300ms'}} 
+               boxShadow='xl' h='180px'  borderRadius='10px'>
+                  <Image  bg='gray.400' maxW='200px' mx='auto' objectFit='contain' src={"static/img/clientes/engepress.png"} alt='Logo Engepress' />
+               </Flex>
+            </SwiperSlide>
+            <SwiperSlide>
+               <Flex bg='#F0EFF4ea' mx='auto' maxW={['60vw','50vw','28vw','22vw' ]}
+               _hover={{bg:'white', transition:'300ms'}} 
+               boxShadow='xl' h='180px'  borderRadius='10px'>
+                  <Image   maxW='200px' mx='auto' objectFit='contain' src={"static/img/clientes/larissa.png"} alt='Logo Dra Larissa' />
                </Flex>
             </SwiperSlide>
 
